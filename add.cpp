@@ -11,4 +11,9 @@ int main (){
     cout<<"hello this is mehak";
     int x,y;
     cout<< x*y;
+    int sum = a+b;
+    cout<< sum;
+    cout<<"this is prajj";
+    cout<<"hello this is mehak";
 }
+
