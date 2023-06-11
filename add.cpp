@@ -8,5 +8,7 @@ int main (){
 
     int sum1 = a+b;
     cout<< sum1;
-    cout<<"hello this is mehak"
+    cout<<"hello this is mehak";
+    int x,y;
+    cout<< x*y;
 }
