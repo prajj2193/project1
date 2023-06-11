@@ -5,9 +5,15 @@ int main (){
 
     int a = 20;
     int b = 30;
+
+    int sum1 = a+b;
+    cout<< sum1;
+    cout<<"hello this is mehak";
+    int x,y;
+    cout<< x*y;
     int sum = a+b;
     cout<< sum;
-    cout<<"this is prajj"
-    cout<<"hello this is mehak"
+    cout<<"this is prajj";
+    cout<<"hello this is mehak";
 }
 
